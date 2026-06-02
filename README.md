@@ -1493,7 +1493,7 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 
 </details>
 
-<details>
+<details open>
 <summary><h3 style="display:inline">Skills by RedHat</h3></summary>
 
 Extend the power of AI across your organization with a curated library of skills, agents, and MCP servers—all backed by your Red Hat subscription. Whether you’re an SRE optimizing workflows in Cursor or an architect building intelligent interfaces, leverage trusted building blocks to deploy and scale agentic automation with confidence.
