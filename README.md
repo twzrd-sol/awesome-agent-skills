@@ -1104,6 +1104,7 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 - **[meodai/skill.color-expert](https://github.com/meodai/skill.color-expert)** - Color science expert skill with 286K words of reference material covering OKLCH/OKLAB, palette generation, accessibility/contrast, color naming, pigment mixing, and historical color theory
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
 
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Trust scoring and identity verification MCP for AI agents on Solana. score_agent/preflight_check (free), get_trust_receipt (paid via x402 USDC micropayment). Verify agent wallet trustworthiness before autonomous on-chain transactions. Remote MCP: `https://intel.twzrd.xyz/mcp`
 </details>
 
 <details>
